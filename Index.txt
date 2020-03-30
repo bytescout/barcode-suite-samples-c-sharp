@@ -158,6 +158,7 @@
 \Generate gs1 databar truncated barcode with barcode sdk
 \Generate gs1 datamatrix barcode with barcode sdk
 \Generate gs1 qr code barcode with barcode sdk
+\Generate gs1-128 barcode with barcode sdk
 \Generate interleaved 2 of 5 barcode with barcode sdk
 \Generate invoice with spreadsheet sdk
 \Generate isbn barcode with barcode sdk
